@@ -1,8 +1,7 @@
-const insiraUmnumero = prompt("Insira um numero par!");
+const insiraUmNumero = prompt("Insira um numero par!");
 
-const  restoNumero = insiraUmNumero % 2
+const restoNumero = insiraUmNumero % 2
 
 console.log(restoNumero)
-
-const primeiroNumero = prompt("Insira um numero aqui!")
-const segundoNumero = prompt("Insira outro numero aqui!")
+// todos os numeros pares não sobram resto(resto=0)
+//  numeros impares tiveram resto 1
